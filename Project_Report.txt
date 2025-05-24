@@ -1,0 +1,16 @@
+Project Title: Facial Recognition System
+Project Level: Intermediate Level
+Internship Domain: Artificial Intelligence
+Technologies Used: Python, OpenCV, face_recognition
+Duration: 03 May 2025 – 03 Jun 2025
+
+Project Overview:
+This project involves developing a facial recognition system capable of identifying and verifying faces in static images. It uses the 'face_recognition' library built on top of dlib for facial encoding and comparison.
+
+Key Features:
+- Load known and unknown images
+- Encode facial features using HOG-based detection
+- Compare face encodings for recognition
+
+Outcome:
+Hands-on understanding of face detection, feature encoding, and verification processes in biometric systems.
